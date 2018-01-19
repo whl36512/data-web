@@ -1,0 +1,73 @@
+<html>
+
+<head>
+    <title>Coltony Corporation</title>
+    <!--#include virtual="include/meta.html" -->
+	<link rel="stylesheet" type="text/css" href="style.css" title="The styles">
+</head>
+
+<body>
+
+	<div class="fixed">
+    <!--#include virtual="include/banner.html" -->
+	</div>
+	
+<!-- content -->
+    <table class="frame" >
+		<!-- <tr> -->
+			<!-- <td colspan="4" valign="center"> -->
+				<!-- <img src="/images/sba_saics.jpg" width="1000" height="200" alt="Let Old Data Tell New Stories" border="0" title="Front White" /> -->
+			<!-- </td> -->
+		<!-- </tr> -->
+        <tr>
+            <td>
+                <table>
+                    <tr>
+                        <td><h1 class="title">Business Exploratory</h4>
+                        </td>
+                    </tr>
+					<tr>
+						<td />
+					</tr>
+                    <tr>
+						<td class="content">There are numerous data from public resources. We help clients find valuable information that can provide business opportunities.
+					    <p>Use Case --</p>
+						<p>Firm distributions by size vary in industries.</p> 
+						</td>
+					</tr>
+					<tr>
+						<td />
+					</tr>	
+				</table>
+			</td>
+			<td width="62" valign="top">
+				<img src="/images/sba_saics.jpg"  alt="SBA SAICS" border="0" title="sba_saics" />
+			</td>
+		</tr>
+		<tr>
+            <td width="36" />	
+				<table>
+					<tr>
+						<td width="62" valign="top">
+						<img src="/images/construction.jpg"  alt="Construction" border="0" title="construction" />
+						</td>
+						<td width="62" valign="top">
+						<img src="/images/profession.jpg"  alt="Profession" border="0" title="profession" />
+						</td>
+						<td width="62" valign="top">
+						<img src="/images/retail.jpg"  alt="Retail" border="0" title="retail" />
+						</td>
+					</tr>			
+				</table>
+            <td width="26" />
+        </tr> 
+    </table>
+
+	<p/>
+
+<!-- footer -->
+    <!--#include virtual="include/footer.html" -->
+
+</body>
+
+</html>

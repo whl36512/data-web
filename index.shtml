@@ -1,0 +1,119 @@
+<html>
+
+<head>
+    <title>Coltony Corporation</title>
+    <!--#include virtual="include/meta.html" -->
+	<link rel="stylesheet" type="text/css" href="style.css" title="The styles">
+</head>
+
+<body>
+
+	<div class="fixed">
+<!-- banner -->
+    <!--#include virtual="include/banner.html" -->
+	</div>
+	
+<!-- content -->
+    <table class="frame" >
+		<tr>
+			<td colspan="4" valign="center">
+				<img src="/images/home_w.jpg" width="1000" height="200" alt="Let Old Data Tell New Stories" border="0" title="Front White" />
+			</td>
+        <tr>
+            <td width="62" valign="top">
+				<img src="/images/data_report.jpg" width="450" height="200" alt="data report" border="0" title="Data Report" />
+            </td>
+            <td width="26" />
+            <td>
+                <table>
+                    <tr>
+                        <td><h1 class="title">Data Reporting</h4>
+                        </td>
+                    </tr>
+					<tr>
+						<td />
+					</tr>
+                    <tr>
+						<td class="content">Summary Reports for business status quo
+						</td>
+					</tr>
+					<tr>
+						<td />
+					</tr>
+					<tr>
+						<td class="content">Real Time Reports for on-going process
+						</td>
+					</tr>
+				</table>
+			</td>
+            <td width="36" />
+        </tr>
+		<tr>
+            <td width="62" valign="top">
+				<img src="/images/data_analysis.jpg" width="450" height="200" alt="data analysis" border="0" title="Data Analysis" />
+            </td>
+            <td width="26" />
+            <td>
+                <table>
+                    <tr>
+                        <td><h1 class="title">Data Analysis</h4>
+                        </td>
+                    </tr>
+					<tr>
+						<td />
+					</tr>
+                    <tr>
+						<td class="content">Forecast Reports for business outlook
+						</td>
+					</tr>
+					<tr>
+						<td />
+					</tr>
+					<tr>
+						<td class="content">Risk Analysis for decision making
+						</td>
+					</tr>
+				</table>
+			</td>
+            <td width="36" />
+        </tr>
+        <tr>
+            <td width="62" valign="top">
+				<img src="/images/data_visual.jpg" width="450" height="200" alt="data visualization" border="0" title="Data Visualization" />
+            </td>
+            <td width="26" />
+            <td>
+                <table>
+                    <tr>
+                        <td><h1 class="title">Data Visualization</h4>
+                        </td>
+                    </tr>
+					<tr>
+						<td />
+					</tr>
+                    <tr>
+						<td class="content">Executive Dashboard for management
+						</td>
+					</tr>
+					<tr>
+						<td />
+					</tr>
+					<tr>
+						<td class="content">Business Scorecard for production efficiency
+						</td>
+					</tr>
+				</table>
+			</td>
+            <td width="36" />
+        </tr>
+ 
+    </table>
+
+	<p/>
+
+<!-- footer -->
+    <!--#include virtual="include/footer.html" -->
+
+</body>
+
+</html>
