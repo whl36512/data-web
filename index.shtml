@@ -17,11 +17,11 @@
     <table class="frame" >
 		<tr>
 			<td colspan="4" valign="center">
-				<img src="/images/home_w.jpg" width="1000" height="200" alt="Let Old Data Tell New Stories" border="0" title="Front White" />
+				<img src="images/home_w.jpg" width="1000" height="200" alt="Let Old Data Tell New Stories" border="0" title="Front White" />
 			</td>
         <tr>
             <td width="62" valign="top">
-				<img src="/images/data_report.jpg" width="450" height="200" alt="data report" border="0" title="Data Report" />
+				<img src="images/data_report.jpg" width="450" height="200" alt="data report" border="0" title="Data Report" />
             </td>
             <td width="26" />
             <td>
@@ -50,7 +50,7 @@
         </tr>
 		<tr>
             <td width="62" valign="top">
-				<img src="/images/data_analysis.jpg" width="450" height="200" alt="data analysis" border="0" title="Data Analysis" />
+				<img src="images/data_analysis.jpg" width="450" height="200" alt="data analysis" border="0" title="Data Analysis" />
             </td>
             <td width="26" />
             <td>
@@ -79,7 +79,7 @@
         </tr>
         <tr>
             <td width="62" valign="top">
-				<img src="/images/data_visual.jpg" width="450" height="200" alt="data visualization" border="0" title="Data Visualization" />
+				<img src="images/data_visual.jpg" width="450" height="200" alt="data visualization" border="0" title="Data Visualization" />
             </td>
             <td width="26" />
             <td>
